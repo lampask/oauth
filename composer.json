@@ -17,6 +17,7 @@
     "friendsofphp/php-cs-fixer": "^3.48",
     "kubawerlos/php-cs-fixer-custom-fixers": "^3.19",
     "league/oauth2-facebook": "^2.2",
+    "league/oauth2-google": "^4.0",
     "mockery/mockery": "^1.6",
     "nette/bootstrap": "^3.1",
     "nette/tester": "^2.5",
