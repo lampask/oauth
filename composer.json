@@ -1,5 +1,5 @@
 {
-  "name": "68publishers/oauth",
+  "name": "lampask/oauth",
   "description": "OAuth integration into Nette Framework",
   "keywords": ["68publishers", "oauth", "nette", "azure"],
   "type": "project",
